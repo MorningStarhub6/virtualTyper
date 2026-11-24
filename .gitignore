@@ -1,0 +1,4 @@
+*.nvda-addon
+__pycache__/
+*.py[cod]
+*$py.class
